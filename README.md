@@ -1,7 +1,7 @@
 <p align="center"> <h1 align="center"> Hi, I am Fatsa Yahdi Husna Muhaimin</h1></p>
 <h3>My Skills</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,react,vite,nextjs,mysql,postgres,php,laravel,html,css,tailwind,bootstrap,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,ts,react,vite,nextjs,mysql,postgres,php,laravel,html,css,tailwind,bootstrap,dart,flutter,java" />
 </p>
 <h4>My Social Media : </h4>
 <p align="center">
