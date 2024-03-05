@@ -1,11 +1,8 @@
-<p align="center"> <h1 align="center"> Hi, I am Fatsa Yahdi Husna Muhaimin</h1></p>
-<h3>My Skills</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,react,vite,nextjs,php,laravel,html,css,tailwind" />
-</p>
-<h4>My Social Media : </h4>
-<p align="center">
-  <a href="https://instagram.com/_llegen_">
-   <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
+## Fatsa Yahdi
+Hy! My name is Fatsa
+
+## Github Stats
+[![FatsaYahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatsayahdi)](https://github.com/FatsaYahdi/)
+
+## Wakatime
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fatsayahdi&theme=outrun&custom_title=Fatsa%27s%20Wakatime%20Stats&layout=compact&range=last_7_days&langs_count=10" />
