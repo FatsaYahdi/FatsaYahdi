@@ -1,5 +1,5 @@
 # Hewwroo （づ￣3￣）づ
-<img src="https://github.com/FatsaYahdi/dummy/blob/main/ayame.png" width="450">
+<img src="https://github.com/FatsaYahdi/dummy/blob/main/ayame.png" width="450" style="display: none;">
 
 ## My Name is Fatsa 
 Nice to meet you
