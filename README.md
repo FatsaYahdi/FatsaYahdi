@@ -2,8 +2,6 @@
 
 ![Views](https://komarev.com/ghpvc/?username=FatsaYahdi&color=blueviolet)
 
-![banner](https://raw.githubusercontent.com/FatsaYahdi/dummy/main/GWPNSYtXIAAIKq_.jpg?w=96)
-
 I'm Fatsa Yahdi, a 17 year old developer from Indonesia.
 
 I'm a Front-end developer. Most React & Next.js.
