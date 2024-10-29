@@ -10,7 +10,7 @@ Some of my best projects: [Company Profile](https://digidreams.id/), [APSI Forum
 
 In my free time, I enjoy playing Minecraft
 
-I speak: Indonesian (native), English and I am learning Japanese.
+I speak: Indonesian (native), English.
 
 Add me on Discord! @hy95
 
