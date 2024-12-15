@@ -6,10 +6,6 @@ I'm Fatsa.
 
 I'm a Front-end developer. Most React & Next.js.
 
-Some of my best projects: [Company Profile](https://digidreams.id/), [APSI Forum](https://forum.apsijateng.id/)
-
-In my free time, I enjoy playing Minecraft
-
 I speak: Indonesian (native), English.
 
 Add me on Discord! @hy95
