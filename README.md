@@ -2,13 +2,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=FatsaYahdi&color=blueviolet)
 
-I'm Fatsa Yahdi, a 17 year old developer from Indonesia.
+I'm Fatsa.
 
 I'm a Front-end developer. Most React & Next.js.
-
-Some of my best projects: [Company Profile](https://digidreams.id/), [APSI Forum](https://forum.apsijateng.id/)
-
-In my free time, I enjoy playing Minecraft
 
 I speak: Indonesian (native), English.
 
