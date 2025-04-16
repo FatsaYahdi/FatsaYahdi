@@ -4,12 +4,6 @@
 
 I'm Fatsa.
 
-I'm a Front-end developer. Most React & Next.js.
-
-I speak: Indonesian (native), English.
-
-Add me on Discord! @hy95
-
   # My Stats
   
   - ## Github Stats
