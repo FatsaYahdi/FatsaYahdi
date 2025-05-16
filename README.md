@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @FatsaYahdi
+# 👋 Hi
 
 ![Views](https://komarev.com/ghpvc/?username=FatsaYahdi&color=blueviolet)
 
